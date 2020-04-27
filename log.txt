@@ -1,1 +1,10 @@
-git init
+>git init
+>git clone username@host:/path/to/repository
+>git add .
+>git commmit -m "initial commit"
+>git branch
+>git branch <branch-name>
+>git checkout <branch-name>
+>git push origin <branch-name>
+>git pull
+>git merge <branch-name>
