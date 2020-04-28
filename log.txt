@@ -1,0 +1,9 @@
+>git clone
+>git init
+>git add .
+>git commit -m
+>git push origin firstname_lastname
+>git pull
+>git branch
+>git checkout
+>git status
