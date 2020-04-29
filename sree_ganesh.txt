@@ -1,7 +1,7 @@
-$ git clone  //cloning the remote repository to local system//
-$ git branch //create branch 
-$ git checkout // switch to created branch
-$ git add	// added to staging
-$ git commit -m  // commit message for the commit made
+$ git clone rishavroy/Chicken-or-Egg //cloning the remote repository to local system//
+$ git branch sree_ganesh //create branch 
+$ git checkout sree_ganesh// switch to created branch
+$ git add sree_ganesh.txt // added to staging
+$ git commit -m "updated sree_ganesh.txt"  // commit message for the commit made
 $ git push // push the commit to remote repo
 $ git merge // merge 2 branches
