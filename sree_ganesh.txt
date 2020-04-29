@@ -1,0 +1,7 @@
+$ git clone  //cloning the remote repository to local system//
+$ git branch //create branch 
+$ git checkout // switch to created branch
+$ git add	// added to staging
+$ git commit -m  // commit message for the commit made
+$ git push // push the commit to remote repo
+$ git merge // merge 2 branches
