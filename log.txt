@@ -1,5 +1,0 @@
-<git status
-<git add <file/directory name #1> <file/directory name #2> < ... >
-<git commit -m "Initial commit"
-<git clone https://github.com/username/projectname.git
-<git push --set-upstream origin master
