@@ -1,7 +1,0 @@
-$ git clone
-$ git branch
-$ git checkout
-$ git add
-$ git commit -m
-$ git push
-$ git merge
