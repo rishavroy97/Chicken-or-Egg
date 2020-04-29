@@ -1,0 +1,24 @@
+> git clone https://github.com/gokul-00/Chicken-or-Egg.git
+> git status
+> git branch
+> git checkout -b gokulraaj_vaithiyanathan
+> git add log.txt
+> git commit -m "file to display used commands"
+> git push origin gokulraaj_vaithiyanathan
+> git checkout -b oneword
+> git add answer.txt
+> git commit -m "one word answer"
+> git push origin oneword
+> git checkout -b detail
+> git add answer.txt
+> git commit -m "detailed answer"
+> git push origin detail
+> git checkout -b oneword
+> git merge detail
+> git add .
+> git commit -m "resolved conflict"
+> git push origin oneword
+> git checkout -b gokulraaj_vaithiyanathan
+> git mv log.txt gokulraaj_vaithiyanathan.txt
+> git commit -m "renamed log.txt to gokulraaj_vaithiyanathan.txt"
+> git push origin gokulraaj_vaithiyanathan
