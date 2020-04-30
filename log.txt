@@ -4,3 +4,5 @@ git branch Manu_Sekar 	: used to create a new branch
 git checkout Manu_Sekar	: used to switch to new branch
 touch log.txt		: create a new text file
 start log.txt 		: opens log.txt in notepad
+git add .		: adds all the existing files in the folder to the staging area
+git commit -u "message" : commits all the added files to the local repository
