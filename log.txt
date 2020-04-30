@@ -1,0 +1,6 @@
+git clone <url> 	: i used this to clone the forked repos into my pc
+cd 			: used to change directory into the folder
+git branch Manu_Sekar 	: used to create a new branch
+git checkout Manu_Sekar	: used to switch to new branch
+touch log.txt		: create a new text file
+start log.txt 		: opens log.txt in notepad
