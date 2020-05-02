@@ -1,0 +1,6 @@
+git clone - to clone the repository to my local network
+git init
+git branch <branch name>
+git checkout <branch name>
+git add log.txt
+git commit -m "file added"
