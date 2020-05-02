@@ -7,4 +7,4 @@
 >git checkout Priyanshu_Dangi
 >git push origin Priyanshu_Dangi
 >git pull
->git merge master 
+>git merge master
